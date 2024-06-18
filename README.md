@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexis
 ==============================================================================================================================
 
-FullStack developer Student
+FullStack developer 
 ---------------------------
 
 Hello! I'm Alexis, a passionate recent graduate web developer with a solid background in front-end and back-end technologies. I pride myself on creating beautiful, functional web experiences that make users fall in love with the interface.
